@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Booking](https://github.com/LukaszFlorekProgramming/BookingAPI)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
