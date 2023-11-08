@@ -3,7 +3,8 @@
 <h3>About me:</h3>
 
 - Im am learning programming in .NET and C#
-- I am currently working on [Booking](https://github.com/LukaszFlorekProgramming/BookingAPI)
+- My first huge project: [Booking](https://github.com/LukaszFlorekProgramming/BookingAPI)
+- I am currently working on https://github.com/LukaszFlorekProgramming/RecipeRevolution
 - I’m currently working on improving my programming skills.
 - I am a graduate of the WSEi Academy in Lublin
 
